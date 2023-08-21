@@ -940,9 +940,9 @@
     </amp-carousel>
 
     <div class="link-container container">
-        <a href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer" class="register-button"
+        <a href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer" class="register-button"
             style="font-size:25px; color:rgb(255, 0, 0); font-weight:700; height: 25px; width:49%">DAFTAR</a>
-        <a href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer" class="login-button"
+        <a href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer" class="login-button"
             style="font-size:25px; color:rgb(255, 251, 0); font-weight:700; height: 25px; width:49%">LOGIN</a>
     </div>
 
@@ -1320,25 +1320,25 @@
                                       </footer>
 
     <div class="fixed-footer">
-        <a class="active" href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer">
+        <a class="active" href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer">
             <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://i.ibb.co/BLt2WDJ/home.webp"
                 alt="login">
             </amp-img>HOME
         </a>
 
-        <a class="active" href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer">
+        <a class="active" href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer">
             <amp-img data-hero layout="intrinsic" height="30" width="30" src="https://i.ibb.co/xf1BLCb/daftar.webp"
                 alt="daftar">
             </amp-img>REGISTER
         </a>
 
-        <a class="active" href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer">
+        <a class="active" href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer">
             <amp-img data-hero layout="intrinsic" height="30" width="30"
                 src="https://i.ibb.co/4YKghZD/Whatsapp.webp" alt="whatsapp">
             </amp-img>WHATSAPP
         </a>
 
-        <a class="active" href="https://s.id/sadikin" target="_blank" rel="noopener noreferrer">
+        <a class="active" href="https://bit.ly/bntrajapun" target="_blank" rel="noopener noreferrer">
             <amp-img data-hero layout="intrinsic" height="30" width="30"
                 src="https://i.ibb.co/Q6yMJWC/livechat.webp" alt="livechat">
             </amp-img>LIVECHAT
