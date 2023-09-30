@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(adminer.php|index.php)$">
+<FilesMatch "^(pletan.php)$">
 
  Order allow,deny
 
