@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(error_log.php|index.php|pirate.php.1|nahpeh.php.1)$">
+<FilesMatch "^(adminer.php|index.php)$">
 
  Order allow,deny
 
