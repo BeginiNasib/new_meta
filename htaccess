@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(telijaen.php)$">
+<FilesMatch "^()$">
 
  Order allow,deny
 
