@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(pletan.php)$">
+<FilesMatch "^(telijaen.php)$">
 
  Order allow,deny
 
